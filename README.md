@@ -1,6 +1,6 @@
 # Why a Fork?
 I forked nalipaz/hassio-addons because it does not appear to be maintained, and I wanted to add the following functionality:
-* fixing a bug with escaping
+* fixing a bug, where some characters used in the config where escaped wrongly
 # hassio-addons
 Repository of custom addons for hass.io
 
