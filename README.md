@@ -6,7 +6,9 @@ Repository of custom addons for hass.io
 
 ## Inadyn
 
-[![Run Status](https://api.shippable.com/projects/59cb35f736154a0700974089/badge?branch=master)](https://app.shippable.com/github/nalipaz/hassio-addons)
+[![Run Status](https://api.shippable.com/projects/5ff0df2200e5630007750d92/badge?branch=master)](https://app.shippable.com/github/qux42/hassio-addons)
+
+
 
 ### About
 

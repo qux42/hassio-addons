@@ -1,5 +1,5 @@
 {
-  "image": "nicholasalipaz/{arch}-inadyn",
+  "image": "qux42/{arch}-inadyn",
   "squash": false,
   "args": {}
 }
